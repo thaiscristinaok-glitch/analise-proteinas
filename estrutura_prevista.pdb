@@ -1,0 +1,18 @@
+HEADER    SIMULATED PROTEIN BACKBONE
+ATOM      1  N   ALA A   1       0.000   0.000   0.000  1.00 95.00           N
+ATOM      2  CA  ALA A   1       1.450   0.000   0.000  1.00 95.00           C
+ATOM      3  C   ALA A   1       2.000   1.420   0.000  1.00 95.00           C
+ATOM      4  O   ALA A   1       1.330   2.380   0.000  1.00 95.00           O
+ATOM      5  N   GLY A   2       3.320   1.520   0.000  1.00 85.00           N
+ATOM      6  CA  GLY A   2       4.010   2.810   0.000  1.00 85.00           C
+ATOM      7  C   GLY A   2       5.510   2.670   0.000  1.00 85.00           C
+ATOM      8  O   GLY A   2       6.150   1.610   0.000  1.00 85.00           O
+ATOM      9  N   VAL A   3       6.070   3.870   0.000  1.00 60.00           N
+ATOM     10  CA  VAL A   3       7.510   3.990   0.000  1.00 60.00           C
+ATOM     11  C   VAL A   3       8.080   5.400   0.000  1.00 60.00           C
+ATOM     12  O   VAL A   3       7.410   6.430   0.000  1.00 60.00           O
+ATOM     13  N   CYS A   4       9.400   5.420   0.000  1.00 45.00           N
+ATOM     14  CA  CYS A   4      10.120   6.700   0.000  1.00 45.00           C
+ATOM     15  C   CYS A   4      11.620   6.450   0.000  1.00 45.00           C
+ATOM     16  O   CYS A   4      12.180   5.350   0.000  1.00 45.00           O
+TER
